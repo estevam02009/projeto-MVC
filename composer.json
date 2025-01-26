@@ -1,0 +1,17 @@
+{
+    "name": "mestevam/projeto-mvc",
+    "description": "Simples projeto MVC para cadastro de usuários, login e cadstro de produtos",
+    "type": "no",
+    "authors": [
+        {
+            "name": "estevam02009",
+            "email": "manoel.neto53861@alunos.ufersa.edu.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
