@@ -23,10 +23,10 @@ $router->dispatch($url);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto - MVC</title>
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/CSS/style.css">
 </head>
 <body>
     <h1>Bem vindo ao sistema!</h1>
-    <script src="assets/script.js"></script>
+    <script src="assets/JS/script.js"></script>
 </body>
 </html>
